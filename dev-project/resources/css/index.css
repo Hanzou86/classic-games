@@ -1,0 +1,68 @@
+#snes-logo {
+  height: 200px;
+  filter: drop-shadow(3px 3px 3px grey);
+}
+ header {
+   background-color: #9933ff;
+   color: white;
+   text-align: center;
+   padding-top: 15px;
+   padding-bottom: 15px;
+ }
+
+body {
+  margin-top: 0;
+}
+
+html {
+  padding-top: 0;
+}
+
+
+h1 {
+  font-size: 50px;
+  margin-top: 10%;
+}
+
+main {
+  font-style: 'Arial';
+}
+
+nav {
+  background-color: white;
+  margin: 0px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+nav ul {
+  margin: 0;
+}
+
+nav li {
+  height: 80px;
+  line-height: 80px;
+  display: inline-block;
+  list-style: none;
+  font-size: 30px;
+  padding: 20px;
+  color: #8000ff;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+nav li:hover {
+  background-color: #9933ff;
+  opacity: 50%;
+  transition: .5s;
+  color: white;
+}
+
+#intro {
+  font-size: 20px;
+  font-style:
+}
